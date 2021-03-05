@@ -1,0 +1,33 @@
+#connexionPseudo{
+   display: none;
+    border: solid 3px black;
+    border-radius: 1%;
+    text-align: center;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-left:20%;
+    line-height: 2em;
+}
+#connexionEmail{
+     display: none;
+    border: solid 3px black;
+    border-radius: 1%;
+    text-align: center;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-left:20%;
+    line-height: 2em;
+}
+#forminscription{
+  
+    border: solid 3px black;
+    border-radius: 1%;
+    text-align: center;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-left:20%;
+    line-height: 2em;
+}
+li{
+   list-style: none;
+}
